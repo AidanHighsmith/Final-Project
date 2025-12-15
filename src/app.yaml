@@ -1,0 +1,3 @@
+domain_path: C:\Users\Aidan_Highsmith1\Desktop\soc_final\final_platform\export\final_platform\sw\standalone_microblaze_I
+app_src_dir: C:\XilinxVitis\Vitis\2024.1\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
